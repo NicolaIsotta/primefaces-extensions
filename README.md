@@ -24,8 +24,8 @@ There are multiple versions available please check which one for your PrimeFaces
 | ![10.x](https://img.shields.io/maven-central/v/org.primefaces.extensions/primefaces-extensions?versionPrefix=10.0&color=cyan) | PrimeFaces 10.0.0 |
 | ![11.x](https://img.shields.io/maven-central/v/org.primefaces.extensions/primefaces-extensions?versionPrefix=11.0&color=cyan) | PrimeFaces 11.0.0 |
 | ![12.x](https://img.shields.io/maven-central/v/org.primefaces.extensions/primefaces-extensions?versionPrefix=12.0&color=cyan) | PrimeFaces 12.0.0 |
-| ![latest](https://img.shields.io/maven-central/v/org.primefaces.extensions/primefaces-extensions?&color=cyan) | Latest |
-
+| ![latest](https://img.shields.io/maven-central/v/org.primefaces.extensions/primefaces-extensions?versionPrefix=13.0&color=cyan) | Latest |
+| ![latest](https://img.shields.io/maven-central/v/org.primefaces.extensions/primefaces-extensions?versionPrefix=14.0&color=cyan) | Latest |
 ## Maven
 
 ### Release (javax)
